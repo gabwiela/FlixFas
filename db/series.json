@@ -1,0 +1,100 @@
+{
+    "series": [
+        {
+            "id": 1,
+            "title": "B.A: O Futuro Está Morto",
+            "description": "Em oposição aos adultos que não sentem nada e ditam as regras, um grupo de adolescentes busca viver intensamente todas as experiências desta fase, colocando em prática o amor livre e a afirmação de suas identidades.",
+            "episodes": "8",
+            "streaming": "HBO MAX",
+             "poster": "https://telaviva.com.br/wp-content/uploads/2023/09/B.A-jpg.webp"
+        },
+        {
+            "id": 2,
+            "title": "Chegou a Hora da Verdade!",
+            "description": "A série conta a história de Oh Yeon-doo (Baek Jin Hee), uma professora de língua coreana que se tornou bem-sucedida após virar uma celebridade da Internet e que, no momento, está prestes a ser mãe solo. É aí que a protagonista conhece Gong Tae Kyung (Ahn Jae Hyun), um obstetra talentoso e solteirão, com quem estabelece um relacionamento de fachada.",
+            "episodes": "50",
+            "streaming": "NETFLIX",
+            "poster": "https://s2-techtudo.glbimg.com/G-nuch1DABfuhOuSJYXHGu3CIEk=/0x0:1200x700/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/1/F/Ol9dZLTDGSXxnbFC2qbQ/7bf94672-12a9-49f9-95ca-c26827dc73f5.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Todo Dia a Mesma Noite",
+            "description": "242 jovens que estavam no local perderam a vida. A trama acompanha, partindo do momento do acidente, as histórias dos impactados por ela em diferentes pontos de vista, como o trabalho das equipes de resgate, as consequências para os sobreviventes e a negligência dos empresários da organização da boate.",
+            "episodes": "5",
+            "streaming": "NETFLIX",
+            "poster": "https://gkpb.com.br/wp-content/uploads/2023/01/todo-dia-mesma-noite-ganha-trailer-scaled.jpg"
+        },
+        {
+            "id": 4,
+            "title": "A Imperatriz",
+            "description": "A Imperatriz é uma série de drama histórico que narra a vida de Elisabeth Amalie Eugenie, uma jovem que aos dezesseis anos se tornou imperatriz da Áustria. Também conhecida pelo apelido Sissi, a moça se apaixona pelo imperador Francisco I, mas tem um grande choque de realidade quando percebe que virou um alvo na corte de Viena ao casar-se com ele.",
+            "episodes": "6",
+            "streaming": "NETFLIX",
+            "poster": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZsz_r7JRKNAd_TYewkO0WIjFnFDlWp529U6pHIW3JhrYTdf4m-3wadhdFdQxSmn-dOX3vsO1uwuYs_wFJ36q8yVVb42ZkVFFv3Z.jpg?r=248"
+        },
+        {
+            "id": 5,
+        "title": "F4 Tailândia: Garotos Sobre Flores",
+        "description": "Nascida em uma família pobre, ela passa seus dias na escola e o restante do seu tempo trabalhando em uma floricultura local com sua melhor amiga Kaning (Chanikarn Tangkabodee). Mas sua vida dá uma guinada inacreditável quando ela passa no vestibular para uma das escolas mais prestigiadas do país.",
+        "episodes": "16",
+        "streaming": "APPLE TV+",
+        "poster": "https://cinema10.com.br/upload/series/series_3138_8fea1829b3-easy-resize.com.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Agora, Estamos nos Separando",
+        "description": "Como líder do departamento de design de uma das maiores empresas de moda do país, Ha Young Eun (Song Hye Kyo) ganhou muita fama na indústria da moda. Linda, elegante e inteligente, Young Eun ama o seu trabalho e é boa no que faz. Mas quando se trata de relacionamentos, as coisas são um pouco diferentes.",
+        "episodes": "16",
+        "streaming": "VIKI",
+        "poster":"https://musicaecinema.com/wp-content/uploads/2023/10/Agora-Estamos-nos-Separando-1024x572.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Beleza Verdadeira",
+        "description": "Por anos a jovem sofreu bullying de familiares e colegas de classe, até decidir como usar maquiagem a seu favor assistindo vídeos tutoriais no YouTube. Depois de dominar a arte, Lim Ju-kyung muda e se torna uma das garotas mais admiradas em seu novo colégio.",
+        "episodes": "16",
+        "streaming": "VIKI",
+        "poster": "https://bolsanerdhome.files.wordpress.com/2020/12/16f69275f45d4a389ed5fc432cf301c4.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "As Five",
+        "description": "Derivada de “Malhação”, “As five” foi lançada em 2020, contando a trajetória de cinco amigas que se reconectaram depois de um período estremecidas. Na nova fase, o avanço da vida adulta exige novas decisões.",
+        "episodes": "18",
+        "streaming": "GLOBOPLAY",
+        "poster": "https://poltronanerd.com.br/wp-content/uploads/2020/09/Protagonistas-de-As-Five.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Euphoria",
+        "description": "Euphoria acompanha a história de Rue Bennett, uma garota de 17 anos que depois de uma overdose está tentando ficar sóbria. Rue se tornou usuária de Oxicodona desde a época em que seu pai lutava contra um câncer, e a morte dele a deixou extremamente abalada.",
+        "episodes": "18",
+        "streaming": "HBO MAX",
+        "poster": "https://grizzlygazettegfhs.com/wp-content/uploads/2022/03/unnamed-900x675.png"
+    },
+    {
+        "id": 10,
+        "title": "O Palhaço Coroado",
+        "description": "Com medo de ser assassinado, o cruel rei de Joseon coloca em seu lugar seu sósia, um comediante que passa a se importar com o reino e o povo.",
+        "episodes": "16",
+        "streaming": "APPLE TV+",
+        "poster": "https://quintacapa.com.br/wp-content/uploads/2021/09/O-Palhaco-Corado-Netflix-Quinta-Capa-destaque.png"
+    },
+    {
+        "id": 11,
+        "title": "The Good Doctor: O Bom Doutor",
+        "description": "A trama segue um médico cirurgião recém-formado com autismo e síndrome de Savant enfrentando os desafios do dia a dia de um agitado hospital.",
+        "episodes": "116",
+        "streaming": "GLOBOPLAY",
+        "poster": "https://br.web.img2.acsta.net/r_1280_720/pictures/17/05/19/09/31/001364.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Verdades Secretas",
+        "description": "Carolina que amava Alex que amava Angel que não amava ninguém. A novela gira em torno do trio amoroso formado por mãe, o marido dela e a filha e termina em tragédia. Tudo começa quando o empresário Alex (Rodrigo Lombardi) e a adolescente Arlete (Camila Queiroz), de 17 anos, têm um caso.",
+        "episodes": "64",
+        "streaming": "GLOBOPLAY",
+        "poster": "https://observatoriodatv.uol.com.br/wp-content/uploads/2021/08/f0e108d217e84b97e81f7cd15266af169fa3742c23a2309d6105ee59dae62a73._RI_V_TTW_.jpg"
+    }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "title": "Besouro Azul",
+            "description": "O adolescente Jaime Reyes ganha superpoderes quando um misterioso escaravelho se prende à sua coluna e lhe fornece uma poderosa armadura alienígena azul.",
+            "director": "Angel Manuel Soto",
+            "rottentomatoes": "78%",
+             "poster": "https://cdn.ome.lt/ubvro3Hll-K7oUWztzQKwlRQyGM=/1200x630/smart/extras/conteudos/besouro_azul_MkY9xfp.png"
+        },
+        {
+            "id": 2,
+            "title": "Que horas eu te pego?",
+            "description": "Desesperada por dinheiro, uma mulher concorda em namorar o filho introvertido e desajeitado de 19 anos de um casal rico.",
+            "director": "Gene Stupnitsky",
+            "rottentomatoes": "71%",
+            "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23561164_v_h8_ag.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Barbie",
+            "description": "Depois de ser expulsa da Barbieland por ser uma boneca de aparência menos do que perfeita, Barbie parte para o mundo humano em busca da verdadeira felicidade.",
+            "director": "Greta Gerwig",
+            "rottentomatoes": "88%",
+            "poster": "https://img.elo7.com.br/product/original/4AF6E90/big-poster-filme-barbie-2023-tamanho-90x60-cm-lo03-poster.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Dungeons & Dragons: Honra Entre Rebeldes",
+            "description": "Um ladrão e um bando de aventureiros embarcam em uma jornada épica para recuperar uma relíquia.",
+            "director": "John Francis Daley e Jonathan M. Goldstein",
+            "rottentomatoes": "91%",
+            "poster": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/12/dungeons_and_dragons_filme_poster__y5k80w2-1210x544.jpg"
+        },
+        {"id": 5,
+        "title": "A Pequena Sereia",
+        "description": "Uma jovem sereia faz um acordo com uma bruxa do mar para trocar sua bela voz por pernas humanas para que possa descobrir o mundo acima da água e impressionar um príncipe.",
+        "director": "Rob Marshall",
+        "rottentomatoes": "67%",
+        "poster": "https://www.pinkvilla.com/english/images/2023/05/1258878456_the-little-mermaid_1280*720.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Shazam! Fúria dos Deuses",
+        "description": "Deuses antigos chegam ao planeta Terra em busca da magia roubada deles há muito tempo. Shazam e seus aliados são forçados a entrar em uma batalha por seus superpoderes, suas vidas e o destino do mundo.",
+        "director": "David F. Sandberg",
+        "rottentomatoes": "49%",
+        "poster":"https://gkpb.com.br/wp-content/uploads/2023/01/shazam-furia-dos-deuses-novo-trailer-scaled.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Velozes e Furiosos 10",
+        "description": "Dom Toretto e sua família precisam lidar com o adversário mais letal que já enfrentaram. Alimentada pela vingança, uma ameaça terrível emerge das sombras do passado para destruir o mundo de Dom e todos que ele ama.",
+        "director": "Louis Leterrier",
+        "rottentomatoes": "56%",
+        "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/74d035165134327.640207937b7b9.png"
+    },
+    {
+        "id": 8,
+        "title": "Pearl",
+        "description": "Presa em uma fazenda isolada, Pearl deve cuidar de seu pai doente sob a vigilância de sua mãe. Desejando a vida glamouroso que ela viu nos filmes, as tentações e repressões de Pearl colidem.",
+        "director": "Ti West",
+        "rottentomatoes": "93%",
+        "poster": "https://shop.a24films.com/cdn/shop/products/20220913_A24_Pearl_Poster_49313x2.jpg?v=1663276328%20//shop.a24films.com/cdn/shop/products/20220913_A24_Pearl_Poster_49313x2.jpg?v=1663276328%20//shop.a24films.com/cdn/shop/products/20220913_A24_Pearl_Poster_49313x2.jpg?v=1663276328"
+    },
+    {
+        "id": 9,
+        "title": "M3GAN",
+        "description": "M3GAN é uma maravilha da inteligência artificial, uma boneca realista programada para ser a melhor amiga de uma criança. Uma robótica brilhante dá a sua jovem sobrinha um protótipo M3GAN, mas a máquina logo se torna violenta.",
+        "director": "Gerard Johnstone",
+        "rottentomatoes": "93%",
+        "poster": "https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2023/01/M3gan-01.jpg"
+    },
+    {
+        "id": 10,
+        "title": "A Fera",
+        "description": "Um pai e suas duas filhas adolescentes são perseguidos por um leão enorme e indisciplinado que tenta provar que a selva tem apenas um predador.",
+        "director": "Baltasar Kormákur",
+        "rottentomatoes": "69%",
+        "poster": "https://falavisual.com/wp-content/uploads/2022/09/destaquebeast.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Avatar: O Caminho da Água",
+        "description": "Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos.",
+        "director": "James Cameron",
+        "rottentomatoes": "76%",
+        "poster": "https://www.correiodopovo.com.br/image/policy:1.916852:1667403001/.jpg?f=2x1&$p$f=7d891a5&w=720&$w=3b33d2d"
+    },
+    {
+        "id": 12,
+        "title": "Tudo em Todo o Lugar ao Mesmo Tempo",
+        "description": "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.",
+        "director": "Daniel Kwan e Daniel Scheinert",
+        "rottentomatoes": "94%",
+        "poster": "https://i.etsystatic.com/18242346/r/il/7fb6f1/3898744406/il_fullxfull.3898744406_6wp7.jpg"
+    }
+    ]
+}
